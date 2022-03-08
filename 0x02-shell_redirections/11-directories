@@ -1,0 +1,6 @@
+#!/bin/bash
+find . -type d -not -name '.' | wc -l
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Sec
